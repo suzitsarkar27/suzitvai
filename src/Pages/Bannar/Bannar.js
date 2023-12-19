@@ -16,7 +16,7 @@ const Bannar = () => {
               <Fade left>
                 <h3 className="text-2xl mb-5">WELCOME TO MY HOME PROJECT</h3>
                 <h2 className=" mt-5">
-                  Hi, I’m <span>Suzit</span>
+                  Hi, I’m <span>Suzit Sarkar</span>
                 </h2>
                 <h2>
                   a{" "}
